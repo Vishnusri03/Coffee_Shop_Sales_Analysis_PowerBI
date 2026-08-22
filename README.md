@@ -22,8 +22,8 @@ Coffee Shop Sales Analysis Dashboard using Power BI
 The Power BI dashboard presents key sales insights through interactive charts, graphs, and KPI visuals.
 
 ## Project Files
-- 'Coffee Shop Sales Analysis.pbix' - Power BI dashboard file
-- 'Coffee Shop Sales Analysis Week 4 Report.docx' - Project Report
+- [Coffee Shop Sales Analysis.pbix](./Coffee%20Shop%20Sales%20Analysis.pbix) - Power BI dashboard file
+- [Coffee Shop Sales Analysis Week 4 Report.docx](./Coffee%20Shop%20Sales%20Analysis%20Week%204%20Report.docx) - Project Report
 
 ## Key Skills Demonstrated
 - Data Cleaning & Transformation
