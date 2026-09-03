@@ -26,6 +26,7 @@ The Power BI dashboard presents key sales insights through interactive charts, g
 - [Coffee Shop Sales Analysis Week 2 Report.docx](./Coffee%20Shop%20Sales%20Analysis%20Week%202%20Report.docx) - Week 2 Project Report
 - [Coffee Shop Sales Analysis Week 3 Report.docx](./Coffee%20Shop%20Sales%20Analysis%20Week%203%20Report.docx) - Week 3 Project Report
 - [Coffee Shop Sales Analysis Week 4 Report.docx](./Coffee%20Shop%20Sales%20Analysis%20Week%204%20Report.docx) - Week 4 Project Report
+- [Coffee Shop Sales Analysis Week 5 Report.docx](./Coffee%20Shop%20Sales%20Analysis%20Week%205%20Report.docx) - Week 5 Project Report
 - [Coffee Shop Sales Analysis.pbix](./Coffee%20Shop%20Sales%20Analysis.pbix) - Power BI dashboard file
 
 ## Key Skills Demonstrated
